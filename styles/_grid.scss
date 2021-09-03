@@ -58,13 +58,10 @@
     }
 }
 
-.item {
-    width: 236px;
-    height: 350px;
-    background: $red;
+img {
     border-radius: 10px;
 }
 
-.item:not(:first-child) {
+img:not(:first-child) {
     margin-top: 16px;
 }
