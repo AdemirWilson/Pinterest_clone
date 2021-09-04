@@ -11,3 +11,4 @@ Resultado:
 ![Home](https://github.com/AdemirWilson/Pinterest_clone/blob/main/Outros/Home.gif)
 
 No gif a animação ficou mais lenta do que realmente está.
+>As fotos foram pegas do picsum.photos
