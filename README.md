@@ -3,6 +3,7 @@
 
 	<p>Link: Em breve</p> 
 <h4>Etapas:</h4>
+
 - [x] Página inicial
 
 Resultado:
