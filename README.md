@@ -1,5 +1,5 @@
 # Pinterest_clone
-<h3>Esse projeto é para ser o clone do site Pinterest.</h3>
+<h3>Esse projeto é para ser parecido com a página inicial Pinterest.</h3>
 
 	<p>Link: Em breve</p> 
 <h4>Etapas:</h4>
