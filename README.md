@@ -1,7 +1,7 @@
-# Pinterest_clone
+# Pinterest_homepage_clone
 <h3>Esse projeto é para ser parecido com a página inicial Pinterest.</h3>
 
-	<p>Link: Em breve</p> 
+	<p>Link: https://ademirwilson.com/projects/pinterest_home_clone/</p> 
 <h4>Etapas:</h4>
 
 - [x] Página inicial
